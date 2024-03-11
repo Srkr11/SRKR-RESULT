@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    animation-duration:inherit;
+}
+#imaje{
+    display: block;
+    margin: 20px auto;
+    align-content: center;
+    justify-content: center;
+    
+}
+h3{
+    color: red;
+    text-align: center;
+    text-shadow: burlywood;
+    text-decoration: solid;
+}
